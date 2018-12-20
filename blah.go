@@ -3,6 +3,7 @@ func f() {
 }
 
 func f() {
+  // doot
   return errors.New(Fmt.Sprintf("asdf %s", x))
 }
 
