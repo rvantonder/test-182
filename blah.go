@@ -9,3 +9,7 @@ func f() {
 func f() {
   return errors.New(fmt.Sprintf("asdf %s", x))
 }
+// xxx
+func f() {
+  return errors.New(Fmt.Sprintf("asdf %s", x))
+}
